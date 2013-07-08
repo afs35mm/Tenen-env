@@ -44,6 +44,7 @@ transition: all 0.5s ease-out 0s; }
 
 #center #body #right {font-weight:200px; font-size:15px; margin-top:50px;float:left;border-left:1px solid #d4d4d4; padding-left:50px; color:#535353; width:480px;}
 #center #body #right ul { padding-bottom:25px;}
+#center #body #right ul li {list-style-position: outside; margin-left:20px;}
 #center #body #right p {padding-bottom:25px; line-height:19px;}
 #center #body #right address {padding-bottom:25px; line-height:19px;}
 #center #body #right h3 {color:#000; font-size:22px; padding-bottom:5px;} 
@@ -51,9 +52,3 @@ transition: all 0.5s ease-out 0s; }
 #center #body #right a {color:#000; text-decoration:underline; display:block;}
 #center #body #right li {line-height:19px;list-style-type:disc; padding-bottom:4px; list-style-position:inside;}
 #center #body #right table.contact tr td {padding-bottom:0px;}
-/**
-footer{height:40px; background-color:blue;}
-
-**/
-
-1

@@ -80,18 +80,7 @@ Columbia University.
 646.606.2332, ext. 102
 </p>
 <p>
-<b>Matthew Carroll</b> is an environmental engineer experienced in all aspects of site
-assessment and development and implementation of remedial strategies. His
-experience involves projects from inception through investigation, remediation
-and closure. His expertise includes soil, soil gas and groundwater remediation;
-remedial selection and design; preparation of cost estimates; soil characterization
-for disposal; field/health and safety oversight and preparation of work plans and
-reports to satisfy the requirements of New York and New Jersey state requirements
-and New York City “e” designation and restrictive declarations. Mr. Carroll ‘s
-project management experience also includes management of a New York City
-School Construction Authority hazardous materials contract. Mr. Carroll received
-his Bachelor of Engineering from Stevens Institute of Technology and Bachelor of
-Science in Chemistry from New York University.
+<b>Matthew Carroll, P.E.</b>  is an environmental engineer experienced in all aspects of site assessment and development and implementation of remedial strategies. His experience involves projects from inception through investigation, remediation and closure. His expertise includes soil, soil vapor and groundwater remediation; remedial selection and design; preparation of cost estimates; soil characterization for disposal; field/health and safety oversight and preparation of work plans and reports to satisfy the requirements of New York and New Jersey state requirements and New York City E-designation and Restrictive Declarations. Mr. Carroll‘s project experience also includes management of a New York City School Construction Authority hazardous materials contract. He has prepared sewer discharge permit applications and stormwater pollution prevention plans. Mr. Carroll received his Bachelor of Engineering in Environmental Engineering from Stevens Institute of Technology and Bachelor of Science in Chemistry from New York University. Mr. Carroll is a licensed Professional Engineer in New York.
 <a href="mailto:mcarroll@tenen-env.com">mcarroll@tenen-env.com</a>
 646.606.2332, ext. 103
 </p>

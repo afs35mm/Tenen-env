@@ -39,96 +39,44 @@
        <div id="right">
         <h3>Experience</h3>
 
-<p>Several of our recent projects are described below.</p>
+          <p>Several of our recent projects are described below.</p>
+                    
+          <h4>Environmental Due Diligence</h4>
+          <p><b>Former Pharmaceutical Site, Brooklyn</b> – Tenen reviewed and summarized the environmental documentation for a 4.5-acre former pharmaceutical facility in Brooklyn, developed preliminary remedial cost estimates, supported the client and client attorney in negotiations with the seller, and documented existing conditions to facilitate purchase of the required environmental insurance.</p>
+          <p><b>NYSDEC Brownfield Cleanup Program Site, Queens</b> – For this former gasoline fueling station, Tenen reviewed prior environmental data to prepare a contaminant distribution overview, preliminary remedial plan, and cost estimate. Tenen has completed a New York State (NYS) Brownfield Cleanup Program (BCP) application and remedial investigation work plan to supplement prior findings. The anticipated remediation plan includes soil excavation and design/installation of a sub-slab depressurization system. The property will be developed with a 126-room hotel.</p>
+          <p><b>Proposed Development Site, Brooklyn – expedited environmental review.</b> One day prior to bid submittal, Tenen reviewed environmental information for a proposed half-acre building site in Dumbo, and produced a cost estimate incorporating compliance with E-designation requirements, pre-construction soil characterization, soil disposal, tank removal, and air monitoring/remedial oversight.</p>
+          <p><b>Environmental Due Diligence, Brooklyn.</b> On behalf of a national non-profit organization, Tenen performed Phase I and II due diligence activities for a building currently occupied by a mental health outpatient clinic, performing an interior soil and soil vapor investigation to identify impacts associated with past operations, particularly those potentially impacting site redevelopment. </p>
+          <p>Phase I Environmental Site Assessments. Examples of recent Phase I Environmental Site Assessments (ESAs) include the following:</p>
+          <ul>
+            <li> A Brooklyn property bordered by NYCTA (New York City Transit Authority) railroad tracks and planned for affordable residential development; work included a Phase I ESA and preparation of NYCTA submittals to obtain approval for soil boring installation;</li>
+            <li> A Phase I site assessment and a soil boring program, associated with a parking lot in north Manhattan planned for future hotel development;</li>
+            <li> Two downtown Brooklyn property due diligence Phase I ESAs to aid a non-profit organization in determining the sites’ viability as future New York City (NYC) headquarters locations;</li>
+            <li> Phase I ESAs for two contiguous sites purchased from a pharmaceutical company in Brooklyn;</li>
+            <li> A five-lot site on the far west side of Manhattan planned for development as a hotel; the Phase I findings indicate potential impacts from historical manufacturing operations;</li>
+            <li> A Phase I ESA for an east midtown condominium being purchased by a non-profit arts organization; </li>
+            <li> As part of an overall physical assessment of the property, a Phase I ESA for a landmarked church complex in Brooklyn Heights;</li>
+            <li> A Phase I assessment of a former industrial site in Long Island City being renovated for use as a daycare center; and,</li>
+            <li> An undeveloped property in Yonkers, New York, under consideration as an affordable housing site; work included a Phase I site assessment and supervision of test pitting to identify soil characteristics and potential contamination due to historic operations.</li>
+          </ul>
 
-<h4>Affordable Housing Site – Brooklyn, New York</h4>
-<p>
-Tenen supervised the removal of petroleum-impacted soils connected with a
-4,800-gallon fuel tank UST and conducted a supplemental soil and groundwater
-investigation to identify groundwater impacts related to residual contamination.
-Using a sonic drill rig, a soil boring was advanced through glacial till to 70 feet
-below grade, with continuous sampling, followed by well installation and sampling.
-An investigation report was submitted to NYSDEC in September 2011. Tenen also
-provided NYSDEC with a Spill Closure Report, incorporating a vapor barrier, sub-
-slab depressurization system (SSDS), and composite cover system. The spill was
-closed by NYSDEC in September 2011 and Tenen is currently overseeing installation
-of the SSDS.
-</p>
-<h4>NYSDEC Spill Site/NYC “e” Designation Site – Far West Side, Manhattan</h4>
-<p>
-Working with a local developer, Tenen reviewed the existing reports for two
-properties with open spills and worked with the client’s attorney to develop a
-regulatory strategy to address the requirements of the NYSDEC Spills Program
-and the New York City “e” designation. At the client’s request, Tenen prepared
-a preliminary remedial cost estimate encompassing the following: chipping,
-removal and disposal of petroleum-impacted bedrock; removal/disposal of recycled
-concrete; dewatering and disposal of impacted groundwater during construction;
-and design and installation of a vapor barrier.
-</p>
-<h4>NYC “e” Designation Site – West Chelsea, Manhattan</h4>
-<p>
-Tenen helped a Chelsea art gallery to address the hazardous materials “e”
-designation from an area-wide rezoning. The client planned to construct an
-art gallery addition directly under the High Line Park. Tenen worked with the
-Mayor’s Office of Environmental Remediation (OER) to develop a remedial
-investigation work plan for the property; conducted a soil, groundwater and soil
-gas investigation; and prepared the Remedial Investigation Report and Remedial
-Action Plan. Remediation consists of excavation and removal of soils above the
-established soil cleanup objectives (SCOs), end point sampling; and design and
-installation of a composite cover and vapor barrier. Tenen worked with the
-client’s architect to incorporate the vapor barrier into the foundation design and
-performed soil disposal characterization sampling. A Notice to Proceed was issued
-by OER in December 2011. Tenen is currently providing remedial oversight during
-construction and will prepare the Remedial Closure Report.
-</p>
-<h4>Due Diligence Assessments – Brooklyn, New York</h4>
-<p>
-For a national non-profit organization, Tenen performed Phase I and II due diligence
-activities for a building housing a mental health outpatient clinic. Based on the
-historic operations in the area and the potential presence of a former gasoline
-tank beneath the adjoining sidewalk, Tenen recommended a soil and soil gas
-investigation within the building to identify potential environmental obstacles
-to site redevelopment. Soil borings and soil vapor points were installed in the
-basement and active areas of the building using a limited access geoprobe. The
-sample results were compared with appropriate regulatory guidance levels and
-incorporated into a report for client review.
-</p>
-<h4>School Facility – Borough Park, Brooklyn</h4>
-<p>
-Tenen coordinated with OER to determine the requirements necessary to
-retroactively satisfy the hazardous materials and air quality “e” designations placed
-on the property. After negotiating a work plan with OER, Tenen conducted a soil
-vapor, indoor air and ambient air investigation at the property and is currently
-preparing a report for OER detailing the results. The air quality “E” designation
-placed on the Site requires that natural gas be used for heating. Since the HVAC
-system for the Site building currently uses electrical units, and no natural gas use
-is anticipated, Tenen prepared a letter and supporting documentation to address
-the air quality “e” requirements and provide justification to support the usage of
-electrical units.
-</p>
-<p>
-Phase I Environmental Site Assessments. Tenen has performed multiple property
-assessments to satisfy “e” designation requirements and/or for use in property
-transactions. Examples include the following:
-</p>
-<ul>
-<li>
-An undeveloped property in Yonkers, New York, under consideration as
-an affordable housing site; work included Phase I site assessment and
-supervision of test pitting to identify soil characteristics and potential
-contamination due to historic operations.
-</li>
-<li>
-Due diligence work, including a Phase I site assessment and a soil boring
-program, associated with a parking lot in north Manhattan planned for future
-hotel development.
-</li>
-<li>
-A downtown Brooklyn property due diligence Phase I to aid a non-profit
-organization in determining the site’s viability as a future New York City
-headquarters location.
-</li>
-</ul>
+
+          <h4>Site Investigation and Remediation/Regulatory Compliance</h4>
+
+          <p><b>Proposed Redevelopment Site, Brooklyn.</b> Tenen performed a soil, soil vapor and groundwater investigation at this 0.5-acre site to meet the requirements of a Restrictive Declaration on the property, which was formerly used for metal work and small arms manufacture. Tenen utilized prior investigation data to revise the work plan to a phased investigation. Based upon an identified petroleum release and chlorinated solvents in soil vapor and groundwater, investigation oversight was transferred from OER to NYSDEC and further investigation of the property was addressed under an Administrative Consent Order. Tenen revised the conceptual site model to demonstrate that the elevated soil vapor concentrations were likely related to an upgradient offsite source.  Based upon this conclusion, responsibility for the remaining remedial activities has been transferred back to OER and the NYSDEC Spills group. Tenen will provide remedial oversight during the construction phase.</p>
+          <p><b>Affordable Housing Site, Brooklyn.</b> Tenen provided oversight during the removal of the accessible petroleum-impacted material associated with a 4,800-gallon fuel oil UST on a property currently being developed for affordable housing and conducted a supplemental soil and groundwater investigation to identify impacts related to the residual contamination. Tenen provided NYSDEC with a Spill Closure Report, incorporating a vapor barrier, sub-slab depressurization system (SSDS), and composite cover system. The spill was closed by NYSDEC in September 2011 and Tenen oversaw the installation of the SSDS.</p>
+          <p><b>NYSDEC Spill Sites/NYC E-Designation Sites, Manhattan.</b> For a local developer, Tenen reviewed the existing reports for two properties on the far west side of Manhattan and worked with the client’s attorney to develop a regulatory strategy to address requirements under the NYSDEC Spills and New York City E-designation programs. Tenen also provided technical support for a cost sharing agreement with a major oil company, including a remedial cost estimate encompassing removal and disposal of petroleum-impacted bedrock and recycled concrete; construction dewatering and disposal of impacted groundwater; and design and installation of a vapor barrier. Tenen conducted quarterly groundwater monitoring to assess the presence of petroleum constituents and used the results to negotiate a reduced sampling frequency pending site redevelopment. </p>
+          <p><b>OER E-Designation Site, Manhattan.</b> Tenen assisted an art gallery in addressing the hazardous materials E-designation resulting from an area-wide rezoning, enabling construction of a gallery space directly under the High Line Park. Tenen developed a remedial investigation work plan; conducted a soil, groundwater and soil vapor investigation; and provided OER with a remedial investigation report and remedial action plan. Tenen worked with the client’s architect to incorporate the vapor barrier into the foundation design, performed soil disposal characterization sampling, provided oversight of all remedial activities and prepared the remedial closure report for the property.</p>
+          <p><b>Hazardous Materials and Air Quality E-Designations, Brooklyn.</b> For a previously constructed school addition in Borough Park, Tenen coordinated with OER to determine how to retroactively satisfy the hazardous materials and air quality E-designations placed on the property. Tenen conducted a soil vapor, indoor air and ambient air investigation at the property, and also prepared supporting documentation to address the air quality E-designation for natural gas and provide justification to support the use of the existing electrical units. </p>
+          <p><b>Phase II E-Designation Investigation, Queens.</b> Tenen conducted a Phase II investigation for this Long Island City property to characterize the shallow subsurface soil, soil vapor, indoor air and groundwater prior to a change of use from a factory to a day care facility in order to address the E-designation placed on the Site by the NYC Department of City Planning.  Subsequent to approval of the proposed remedy, Tenen specified and supervised the installation of a vapor barrier at the property.</p>
+
+
+          <h4>Pre-Construction Activities/Permitting</h4>
+
+          <p><b>Mixed-use Affordable Development, Brooklyn.</b> Tenen prepared a Stormwater Pollution Prevention Plan (SWPPP) for the second phase of a nine-building development on a former municipal landfill in East New York and is currently conducting the required compliance inspections and reporting. A soil characterization plan was prepared and implemented to support the offsite disposal of material generated by the redevelopment and Tenen is currently providing remedial oversight during construction.</p>
+          <p><b>NYSDOT Project Site, Queens.</b> Tenen prepared several documents for this major highway reconstruction project including a New York City Department of Environmental Protection (NYCDEP)-approved discharge to sewer connection; an underground storage tank (UST) removal plan; and an organic vapor monitoring plan. Tenen sampled around the removed UST and closed the record with NYSDEC.</p>
+          <p><b>Development Site, Queens.</b> Tenen designed and implemented a test pit program to characterize site soils for disposal and provide information suitable for inclusion in contractor bid documents. Implementation of the plan involved collection and analysis of discrete and composite samples based on typical disposal facility requirements.  The results of the sampling and analysis were compared with New York State Part 375 Unrestricted Use Soil Cleanup Objectives and included in a letter report containing a description of sampling and analytical methodology, a field sampling map, and test pit and photo logs.</p>
+          <p><b>School Construction Projects, Bronx and Manhattan.</b> Tenen was retained to collect soil samples to assist in disposal facility selection and conduct air monitoring during test pit excavation. Based upon the results, Tenen prepared summary reports including methodology and field sampling map, test pit logs, photo documentation and comparison of the analytical results with multiple sets of regulatory guidance levels.</p>
+
         </div>
     
 

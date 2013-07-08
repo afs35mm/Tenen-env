@@ -46,15 +46,19 @@
         </p>
         <h3>Our Services</h3>
 
-        <ul>
-          <li>Environmental due diligence for property transactions</li>
-          <li>Phase I and II site assessments and investigations</li>
-          <li>Compliance and reporting for city and state regulatory programs</li>
-          <li>Expertise in brownfields, “e” designations and spills</li>
-          <li>Pre-construction activities including soil disposal characterization</li>
-          <li>Design, installation and operation/maintenance of remedial systems</li>
-          <li>Remedial oversight during construction</li>
-          <li>Indoor air quality assessment/vapor intrusion mitigation</li>
+        <ul>   
+          <li> Environmental due diligence for property transactions</li>
+          <li> Phase I and II site assessments and investigations</li>
+          <li> Compliance and reporting for NYC and NYS regulatory programs</li>
+          <li> Expertise in brownfields, E-designations and spills</li>
+          <li> Pre-construction activities including soil characterization, dewatering and sewer discharge applications</li>
+          <li> Preparation of plans and drawings for construction and post-construction stormwater management</li>
+          <li> Design, installation and operation/maintenance of remedial systems</li>
+          <li> Design and implementation of in-situ remedial programs</li>
+          <li> Remedial oversight and worker safety/community air monitoring during construction activities</li>
+          <li> Indoor air quality assessments/vapor intrusion mitigation</li>
+          <li> Records review in support of environmental insurance policies</li>
+          <li> Remedial cost estimates for regulatory programs and property transactions</li>
         </ul>
         <p>Please contact us with any questions about our services or experience. We look forward to working with you.</p>
         </div>
